@@ -15,5 +15,6 @@ Support python2 or python3
 $ pkg install python python2
 $ git clone https://github.com/AnonRoz-Team/domain-to-ip
 $ cd domain-to-ip
+  Target website without http or https
 $ python2 web-to-ip.py list-web.txt
 ```
