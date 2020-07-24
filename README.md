@@ -2,7 +2,7 @@
 # Author
 ```
 Nickname : D4RKSH4D0WS
-Team : AnonRoz Team
+Team : AnonRoz-Team
 ```
 
 # Requirements
